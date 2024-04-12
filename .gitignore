@@ -1,0 +1,10 @@
+*
+!client/
+!server/
+!common/
+!*.c
+!*.h
+!*Makefile
+!README.md
+!.gitignore
+!Screenshot*
